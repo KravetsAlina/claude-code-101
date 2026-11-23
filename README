@@ -1,1 +1,9 @@
 // npx tsx index.ts
+
+// npx playwright test --project=chromium --headed
+
+// /reload-skills
+
+// claude
+
+// /code-review
